@@ -7,5 +7,5 @@ It is a tv show app where you can find any show and also book tickets for you an
 
 # Preview
 <img src="https://i.postimg.cc/prpSNfQz/Screenshot-2023-06-03-002919.png" alt="preview of Mayank's TV" />
-<img src="https://pasteboard.co/aE0iUZsZRxcK.png" alt="preview of Mayank's TV" />
-<img src="https://pasteboard.co/SzuzH0YdBYdu.png" alt="preview of Mayank's TV" />
+<img src="https://i.postimg.cc/8PWSjGWW/Screenshot-2023-06-03-002901.png" alt="preview of Mayank's TV" />
+<img src="https://i.postimg.cc/XvYmc6Zs/Screenshot-2023-06-03-002844.png" alt="preview of Mayank's TV" />
