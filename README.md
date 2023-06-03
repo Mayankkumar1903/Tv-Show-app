@@ -6,6 +6,6 @@ It is a tv show app where you can find any show and also book tickets for you an
 - React
 
 # Preview
-<img src="https://ibb.co/fHMr4p1" alt="preview of Mayank's TV" />
-<img src="https://ibb.co/TB5xYt1" alt="preview of Mayank's TV" />
-<img src="https://ibb.co/161thSf" alt="preview of Mayank's TV" />
+<img src="https://pasteboard.co/TUGywXGcN6Z5.png" alt="preview of Mayank's TV" />
+<img src="https://pasteboard.co/aE0iUZsZRxcK.png" alt="preview of Mayank's TV" />
+<img src="https://pasteboard.co/SzuzH0YdBYdu.png" alt="preview of Mayank's TV" />
